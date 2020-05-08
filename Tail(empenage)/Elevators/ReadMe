@@ -1,0 +1,3 @@
+These parts tend to curl off the bed. I recommend using a Raft in the slicer. Also I used a technique where I turn off the 
+"Auto Drop to Build Plate" function and have the parts "hovering" a few mm above the bed with supports under it. 
+Not only is the less solid support, less likely to warp, if it does, it's the support that compresses and not the model.
